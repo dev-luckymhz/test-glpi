@@ -1,0 +1,33 @@
+.custom-welcome-card {
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+}
+
+.custom-welcome-header {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.custom-welcome-body p {
+  font-size: 14px;
+  color: #555;
+  margin: 0 0 10px;
+}
+
+.custom-welcome-link {
+  font-size: 14px;
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.custom-welcome-link:hover {
+  text-decoration: underline;
+}
